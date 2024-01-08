@@ -1,0 +1,1 @@
+INSERT INTO `petshop_web`.`utente` (`nome`, `cognome`, `email`, `cellulare`, `data_nascita`, `password`, `username`, `ruolo`, `stato`) VALUES ('manager', 'manager', 'manager@manager.com', '0000000000', '2000-01-01', 'manager', 'manager', 'M', 'A');
